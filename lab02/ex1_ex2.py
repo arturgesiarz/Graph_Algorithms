@@ -110,4 +110,4 @@ def function_ex2(graph):
     return min_flow
 
 #To enable more tests, change all_test=True; The exercise value can be set to 1/2 - depending on which exercise we want to include tests in
-testing(function_ex2,exercise=2,all_test=True)
+testing(function_ex1,exercise=1,all_test=True)
