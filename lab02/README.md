@@ -33,7 +33,7 @@ These folders contains test graphs saved in DIMACS ascii format, which are inten
 This file contains a script that loads graph saved in DIMACS ascii format and then saves them in edge list format.
 
 + File `testy.py`
-This file contains a script that loads test graphs located in the `graphs-lab1` folder, which are saved in the DIMACS ascii. It loads them using a file `dimacs.py`. Once all the tests have been loaded correctly, this file checks `ex1_ex2.py` to see how many tests from the `connectivity` and `flow` folders have passed correctly.
+This file contains a script that loads test graphs located in the `connectivity` and `flow` folders, which are saved in the DIMACS ascii. It loads them using a file `dimacs.py`. Once all the tests have been loaded correctly, this file checks `ex1_ex2.py` to see how many tests from the `connectivity` and `flow` folders have passed correctly.
 
 
 
